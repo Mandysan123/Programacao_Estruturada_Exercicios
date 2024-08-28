@@ -1,16 +1,10 @@
 
 🎉 Bem-vindos ao meu repositório de Questões de Linguagem C! 🎉
 
-Este repositório contém as soluções para 6 questões de programação em C, desenvolvidas como parte de uma atividade acadêmica. Abaixo, você encontrará o código fonte para cada questão, junto com uma breve descrição do que foi implementado. 🚀💻
+Este repositório contém as soluções para questões de programação em C, desenvolvidas como parte de uma atividade acadêmica. Abaixo, você encontrará o código fonte para cada questão, junto com uma breve descrição do que foi implementado. 🚀💻
 
 🔍 O que tem por aqui?
-
-    🧩 Questão 1
-    🧩 Questão 2
-    🧩 Questão 3
-    🧩 Questão 4
-    🧩 Questão 5
-    🧩 Questão 6
+Questões de Linguagem C acerca dos conteúdos lecionados em sala de Sala.
 
 
 Cada arquivo contém o código C, bem como comentários para facilitar a compreensão. Sinta-se à vontade para explorar, comentar e contribuir! 🛠️✨
